@@ -1,0 +1,76 @@
+#header{
+background-color: aquamarine;
+color: black;
+}
+#footer{
+background-color: aquamarine;
+color: black;
+}
+#body{
+background-color: rgb(118, 118, 192);
+color: black;
+}
+#a{
+background-color: rgb(39, 39, 106);
+color: rgb(176, 181, 159);
+}
+#b{
+background-color: rgb(214, 20, 20);
+color: rgb(71, 56, 139);
+}
+#c{
+background-color: rgb(227, 160, 35);
+color: rgb(33, 175, 61);
+}
+#d{
+background-color: rgb(26, 26, 45);
+color: rgb(246, 6, 6);
+}
+#e{
+background-color: rgb(228, 74, 177);
+color: white;
+}
+#f{
+background-color: rgb(30, 238, 89);
+color: white;
+}
+#g{
+background-color: rgb(157, 181, 227);
+color: white;
+}
+#h{
+background-color: rgb(228, 111, 183);
+color: white;
+}
+#i{
+background-color: rgb(118, 220, 162);
+color: rgb(155, 41, 41);
+}
+#j{
+background-color: rgb(144, 152, 164);
+color: rgb(45, 50, 12);
+}
+#k{
+background-color: rgb(128, 248, 24);
+color: rgb(10, 9, 9);
+}
+#l{
+background-color: rgb(49, 94, 44);
+color: white;
+}
+#m{
+background-color: rgb(141, 107, 123);
+color: white;
+}
+#n{
+background-color: rgb(55, 4, 4);
+color: white;
+}
+#o{
+background-color: rgb(33, 146, 106);
+color: white;
+}
+#p{
+background-color: rgb(4, 4, 48);
+color: rgb(236, 151, 229);
+}
